@@ -7,9 +7,11 @@
 # Precompiled Headers
 *.gch
 *.pch
+*.ncb
+*.user
 
 # Libraries
-*.lib
+#*.lib
 *.a
 *.la
 *.lo
@@ -21,7 +23,7 @@
 *.dylib
 
 # Executables
-*.exe
+#*.exe
 *.out
 *.app
 *.i*86
@@ -31,3 +33,7 @@
 # Debug files
 *.dSYM/
 *.su
+
+#other
+*.h~
+*.c~

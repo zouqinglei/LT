@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libjson", "libjson.vcproj", "{CCB8E1B7-ED35-48A1-86D4-2E57146407FC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libjsonex", "libjsonex\libjsonex.vcproj", "{7FB00230-2913-4EAC-B933-9CC9F760F856}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dlljson", "dlljson\dlljson.vcproj", "{E4521D26-9061-4527-91AA-32B59BC99B22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCB8E1B7-ED35-48A1-86D4-2E57146407FC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CCB8E1B7-ED35-48A1-86D4-2E57146407FC}.Debug|Win32.Build.0 = Debug|Win32
+		{CCB8E1B7-ED35-48A1-86D4-2E57146407FC}.Release|Win32.ActiveCfg = Release|Win32
+		{CCB8E1B7-ED35-48A1-86D4-2E57146407FC}.Release|Win32.Build.0 = Release|Win32
+		{7FB00230-2913-4EAC-B933-9CC9F760F856}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7FB00230-2913-4EAC-B933-9CC9F760F856}.Debug|Win32.Build.0 = Debug|Win32
+		{7FB00230-2913-4EAC-B933-9CC9F760F856}.Release|Win32.ActiveCfg = Release|Win32
+		{7FB00230-2913-4EAC-B933-9CC9F760F856}.Release|Win32.Build.0 = Release|Win32
+		{E4521D26-9061-4527-91AA-32B59BC99B22}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E4521D26-9061-4527-91AA-32B59BC99B22}.Debug|Win32.Build.0 = Debug|Win32
+		{E4521D26-9061-4527-91AA-32B59BC99B22}.Release|Win32.ActiveCfg = Release|Win32
+		{E4521D26-9061-4527-91AA-32B59BC99B22}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
