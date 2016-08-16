@@ -10,6 +10,16 @@
 *.ncb
 *.user
 *.suo
+*.dep
+*.idb
+*.pdb
+*.ilk
+*.sws
+*.pdsync
+*.pdsyncu
+*.manifest
+
+
 
 # Libraries
 #*.lib
