@@ -9,6 +9,7 @@
 *.pch
 *.ncb
 *.user
+*.suo
 
 # Libraries
 #*.lib
