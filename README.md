@@ -12,7 +12,7 @@ lt_mqs run as windows service, register as follow:
 lt_mqs.exe -install
 
 
-相关电子书 《C + JSON》在豆瓣出售，地址是：
+相关电子书 《C + JSON》在豆瓣发布，地址是：
 https://read.douban.com/ebook/24885643/
 
 感兴趣的朋友可以移驾去看看。
